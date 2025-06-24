@@ -1,2 +1,2 @@
 # Band-Gap-Simulation
-n-type and p-type band gap changes with doping
+Depend on the doping type n or p type semiconductor band gap simulaiton
