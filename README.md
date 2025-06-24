@@ -5,5 +5,5 @@ In this project, the effect of n-type and p-type doping types on the energy band
 - Matplotlib
 - NumPy
   
-##Explanation
+## Explanation
 Taking the valence and conduction bands constant, the change in Fermi levels for intrinsic, n-type and p-type doping states is visualized.
